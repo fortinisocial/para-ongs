@@ -33,11 +33,11 @@ A TechSoup Brasil é um projeto que oferece Softwares e ferramentas tecnológica
 
 | Produto                            | Plano / Benefício        | Link                                                         | Exige cadastro no TechSoup? |
 | ---------------------------------- | ------------------------ | ------------------------------------------------------------ | --------------------------- |
-| **Canva**                          | Plano Pro gratuito       | [Inscrição](https://www.canva.com/pt_br/signup/?signupRedirect=%2Fnfp-signup&loginRedirect=%2Fnfp-signup) | 👎                           |
-| **GitHub**                         | Plano Team gratuito      | [Inscrição](https://support.github.com/contact/nonprofit)    | 👎                           |
-| **Google Workspace**               | Plano gratuito para ONGs | [Inscrição](https://www.google.com/nonprofits/account/signup/us) | 👍                           |
-| **Microsoft 365 Business Premium** | 10 licenças gratuitas    | [Inscrição](https://signup.nonprofit.microsoft.com/pt-br)    | 👎                           |
-| **Slack**                          | Plano Pro gratuito       | [Inscrição](https://slack.com/intl/pt-br/help/articles/204368833-Inscreva-se-para-um-desconto-no-programa-Slack-para-organiza%C3%A7%C3%B5es-sem-fins-lucrativos#how-to-apply) | 👎                           |
+| **Canva**                          | Plano Pro gratuito       | [Inscrição](https://www.canva.com/pt_br/signup/?signupRedirect=%2Fnfp-signup&loginRedirect=%2Fnfp-signup) | _Não_                           |
+| **GitHub**                         | Plano Team gratuito      | [Inscrição](https://support.github.com/contact/nonprofit)    | _Não_                          |
+| **Google Workspace**               | Plano gratuito para ONGs | [Inscrição](https://www.google.com/nonprofits/account/signup/us) | **Sim**                           |
+| **Microsoft 365 Business Premium** | 10 licenças gratuitas    | [Inscrição](https://signup.nonprofit.microsoft.com/pt-br)    | _Não_                           |
+| **Slack**                          | Plano Pro gratuito       | [Inscrição](https://slack.com/intl/pt-br/help/articles/204368833-Inscreva-se-para-um-desconto-no-programa-Slack-para-organiza%C3%A7%C3%B5es-sem-fins-lucrativos#how-to-apply) | _Não_                           |
 
 
 
